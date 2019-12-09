@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "express-photon",
+  "env": {
+    "DB_URL": "@db_url"
+  }
+}
